@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evidad" alt="evidad" /></a> </p>
 
-- 🌱 I’m currently learning **python from CodeFellows**
+- 🌱 I’m currently learning **<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> </a> from CodeFellows**
 
 - 👨‍💻 All of my projects are available at [https://github.com/evidad](https://github.com/evidad)
 

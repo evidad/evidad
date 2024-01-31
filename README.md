@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **errolvidad@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1AFdVIcAkq8K6Ra8EvE-FUtsfYUHzRBkFPyW6Awa9mwI/edit#heading=h.sbziogryzzql)
+- 📄 Learn about my experiences [Resume](https://docs.google.com/document/d/1AFdVIcAkq8K6Ra8EvE-FUtsfYUHzRBkFPyW6Awa9mwI/edit#heading=h.sbziogryzzql)
 
 - ⚡ Fun fact **I'm a 10-year Naval Officer that has a better fantasy football team than yours**
 

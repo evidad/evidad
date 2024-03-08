@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Errol Vidad</h1>
-<h3 align="center">An emerging software developer from San Diego</h3>
+<h3 align="center">A software developer from San Diego</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evidad&label=Profile%20views&color=0e75b6&style=flat" alt="evidad" /> </p>
 
